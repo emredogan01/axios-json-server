@@ -1,0 +1,72 @@
+{
+  "todos": [
+    {
+      "id": 10230123,
+      "title": "json server",
+      "isDone": "false",
+      "date": "6/1/2023"
+    },
+    {
+      "date": "2023-08-04T13:21:30.702Z",
+      "id": "cc7d1c31-6f55-4245-9e15-81389e8d3a4f",
+      "title": "deneme2",
+      "isDone": true
+    },
+    {
+      "date": "2023-08-04T13:07:09.334Z",
+      "id": "442d0554-5c3b-42f8-ae8c-5d7ff25c720f",
+      "title": "axios",
+      "isDone": true
+    },
+    {
+      "date": "2023-08-04T13:07:11.622Z",
+      "id": "33b67eec-0cd0-4a87-a8a4-057b9ca32198",
+      "title": "json",
+      "isDone": true
+    },
+    {
+      "date": "2023-08-04T13:07:14.772Z",
+      "id": "0f03188d-3976-419f-9304-8a183f58a78c",
+      "title": "learn",
+      "isDone": false
+    },
+    {
+      "date": "2023-08-04T13:07:18.359Z",
+      "id": "1d556e45-3f3f-46f6-bb1b-1080a4737e52",
+      "title": "apı",
+      "isDone": true
+    },
+    {
+      "date": "2023-08-04T13:07:20.572Z",
+      "id": "5b237ebc-b9bc-45ce-a944-f14c381c96d6",
+      "title": "js",
+      "isDone": false
+    },
+    {
+      "date": "2023-08-06T12:44:13.494Z",
+      "id": "58adae9b-b2ea-4a69-acfd-5e15e5e48efc",
+      "title": "text 123",
+      "isDone": false
+    },
+    {
+      "date": "2023-08-06T12:45:24.759Z",
+      "id": "3e940c05-5c14-4b6f-b07e-09e4b457264d",
+      "title": "try123",
+      "isDone": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "emre"
+    },
+    {
+      "id": 2,
+      "name": "melisa"
+    },
+    {
+      "id": 3,
+      "name": "berk"
+    }
+  ]
+}
